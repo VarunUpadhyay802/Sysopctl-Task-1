@@ -105,6 +105,9 @@ Monitors real-time process activity, similar to the `top` or `htop` commands.
 <div align="center">
 
 
+![image](https://github.com/user-attachments/assets/e8d57fbb-4619-4f7d-8c6c-e70e17d7c1aa)
+
+
 </div>
 
 ##### 2. Analyze System Logs
@@ -114,9 +117,9 @@ Analyzes and summarizes recent critical log entries, utilizing tools like `journ
 
 
 <div align="center">
-![image](https://github.com/user-attachments/assets/7f697fa8-ec46-49b0-8e01-314808b601da)
 
 
+![niceee](https://github.com/user-attachments/assets/4f54e609-91b1-4c70-a1a6-4e2317d5a679)
 
 
 </div>
