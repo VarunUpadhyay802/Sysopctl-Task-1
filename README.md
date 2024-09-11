@@ -16,7 +16,8 @@ To access the full documentation through the manual:
 
 
 <div align="center">
- ![WhatsApp Image 2024-09-11 at 22 51 27_9a3f8c56]
+![IMG-20240911-WA0023](https://github.com/user-attachments/assets/c9e2a799-1697-4e0f-b1d2-f54bf489ab4d)
+
 
 </div>
 
@@ -25,7 +26,8 @@ To display usage information and examples:
 
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 06 21_64db3b14]
+
+![IMG-20240911-WA0024](https://github.com/user-attachments/assets/3ab9bb8b-6ab6-47aa-b19e-3a69d8fed4dd)
 
 </div>
 
@@ -34,7 +36,8 @@ To display the current version of the `sysopctl` command:
 
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 06 40_a6c1e758]
+
+![IMG-20240911-WA0025](https://github.com/user-attachments/assets/526c7748-938f-4f53-98ae-7dd1a97adf68)
 
 </div>
 
@@ -49,7 +52,8 @@ Lists all active services on the system, similar to `systemctl list-units --type
 
 <div align="center">
 
-![WhatsApp Image 2024-09-11 at 23 07 05_03822e55]
+
+![IMG-20240911-WA0026](https://github.com/user-attachments/assets/4a7ec95f-7bc7-4fb9-85fa-ffc8533eb6ff)
 
 
 </div>
@@ -60,7 +64,8 @@ Displays the current system load averages, similar to the output from the `uptim
 **Command:**
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 07 31_a0960f43]
+
+![IMG-20240911-WA0027](https://github.com/user-attachments/assets/2646f102-3063-4026-a9ac-f2547cc78c5f)
 
 </div>
 
@@ -73,7 +78,7 @@ Starts or stops a specific service, akin to using `systemctl start/stop`.
 **Stop a Service:**
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 07 54_c4c7961a]
+
 </div>
 
 ##### 2. Check Disk Usage
@@ -85,7 +90,7 @@ Displays disk usage statistics by partition, similar to `df -h`.
 <div align="center">
 
 
-![WhatsApp Image 2024-09-11 at 23 08 23_576f000f]
+![IMG-20240911-WA0029](https://github.com/user-attachments/assets/b00d9efb-024f-4a35-879a-9796657df911)
 
 
 </div>
@@ -98,7 +103,7 @@ Monitors real-time process activity, similar to the `top` or `htop` commands.
 **Command:**
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 08 50_a5b98f1b]
+
 
 </div>
 
