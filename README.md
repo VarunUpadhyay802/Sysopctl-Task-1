@@ -16,7 +16,7 @@ To access the full documentation through the manual:
 
 
 <div align="center">
- ![WhatsApp Image 2024-09-11 at 22 51 27_9a3f8c56](https://github.com/user-attachments/assets/0d03aec7-bcb8-4931-80c6-c7b86ba8c5b4)
+ ![WhatsApp Image 2024-09-11 at 22 51 27_9a3f8c56]
 
 </div>
 
@@ -25,7 +25,7 @@ To display usage information and examples:
 
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 06 21_64db3b14](https://github.com/user-attachments/assets/943f2014-1b7e-46d4-aa94-4abf586db82c)
+![WhatsApp Image 2024-09-11 at 23 06 21_64db3b14]
 
 </div>
 
@@ -34,7 +34,7 @@ To display the current version of the `sysopctl` command:
 
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 06 40_a6c1e758](https://github.com/user-attachments/assets/8436339a-6f31-4d9d-bf2f-96778282075d)
+![WhatsApp Image 2024-09-11 at 23 06 40_a6c1e758]
 
 </div>
 
@@ -49,7 +49,7 @@ Lists all active services on the system, similar to `systemctl list-units --type
 
 <div align="center">
 
-![WhatsApp Image 2024-09-11 at 23 07 05_03822e55](https://github.com/user-attachments/assets/ad50a06c-21e2-4696-9dd7-03adb2aa44ff)
+![WhatsApp Image 2024-09-11 at 23 07 05_03822e55]
 
 
 </div>
@@ -60,7 +60,7 @@ Displays the current system load averages, similar to the output from the `uptim
 **Command:**
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 07 31_a0960f43](https://github.com/user-attachments/assets/a2634e05-df54-4fec-8b34-00b004e85aef)
+![WhatsApp Image 2024-09-11 at 23 07 31_a0960f43]
 
 </div>
 
@@ -73,7 +73,7 @@ Starts or stops a specific service, akin to using `systemctl start/stop`.
 **Stop a Service:**
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 07 54_c4c7961a](https://github.com/user-attachments/assets/25a63e4a-dd25-4cb7-a4bd-d5c9396cd10e)
+![WhatsApp Image 2024-09-11 at 23 07 54_c4c7961a]
 </div>
 
 ##### 2. Check Disk Usage
@@ -85,7 +85,7 @@ Displays disk usage statistics by partition, similar to `df -h`.
 <div align="center">
 
 
-![WhatsApp Image 2024-09-11 at 23 08 23_576f000f](https://github.com/user-attachments/assets/19bd7180-5c8c-427c-9b34-0db3b5280fca)
+![WhatsApp Image 2024-09-11 at 23 08 23_576f000f]
 
 
 </div>
@@ -98,7 +98,7 @@ Monitors real-time process activity, similar to the `top` or `htop` commands.
 **Command:**
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 08 50_a5b98f1b](https://github.com/user-attachments/assets/a6529868-7a81-4c09-b9d9-48ee439e04c3)
+![WhatsApp Image 2024-09-11 at 23 08 50_a5b98f1b]
 
 </div>
 
@@ -109,7 +109,7 @@ Analyzes and summarizes recent critical log entries, utilizing tools like `journ
 
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 09 30_374d1125](https://github.com/user-attachments/assets/6593728d-9af7-4bb1-a9b4-0e960716036f)
+![WhatsApp Image 2024-09-11 at 23 09 30_374d1125]
 
 </div>
 
