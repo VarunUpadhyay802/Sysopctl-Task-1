@@ -114,7 +114,8 @@ Analyzes and summarizes recent critical log entries, utilizing tools like `journ
 
 
 <div align="center">
-![niceee](https://github.com/user-attachments/assets/d5eca5b0-28f1-4f1f-9f10-f917adc09597)
+![image](https://github.com/user-attachments/assets/7f697fa8-ec46-49b0-8e01-314808b601da)
+
 
 
 
