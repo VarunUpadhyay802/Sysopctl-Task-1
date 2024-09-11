@@ -16,8 +16,8 @@ To access the full documentation through the manual:
 
 
 <div align="center">
-![IMG-20240911-WA0023](https://github.com/user-attachments/assets/c9e2a799-1697-4e0f-b1d2-f54bf489ab4d)
 
+![IMG-20240911-WA0023](https://github.com/user-attachments/assets/7f904283-270d-4d79-895a-b78c8f5de9d9)
 
 </div>
 
@@ -114,7 +114,8 @@ Analyzes and summarizes recent critical log entries, utilizing tools like `journ
 
 
 <div align="center">
-![WhatsApp Image 2024-09-11 at 23 09 30_374d1125]
+[Deliverables as Backend.docx](https://github.com/user-attachments/files/16967657/Deliverables.as.Backend.docx)
+
 
 </div>
 
